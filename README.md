@@ -30,11 +30,6 @@
  | Number of bytes allocated per operation | 11,858              | 4,950                 | 4,944                 |
  | Allocations per operation               | 14                  | 12                    | 12                    |
  
- - Machine spec:
-     - MacOS Catalina 10.15.7 
-     - CPU: 2.6 GHz 6-Core Intel Core i7
-     - Memory: 32 GB 2667 MHz DDR4
- 
 
  ## Instructions
  - To run the benchmark there are two main options:
