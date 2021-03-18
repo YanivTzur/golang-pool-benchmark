@@ -24,7 +24,7 @@
  - Current results on my machine:
  
  
- | Metric/API                              | /basic-handler      | /object-poo-handler   | /bounded-pool-handler |
+ | Metric/API                              | /basic-handler      | /object-pool-handler   | /bounded-pool-handler |
  | --------------------------------------- | ------------------- | --------------------- | --------------------- |
  | Running time per operation (ns)         | 3,387               | 1,728                 | 1,892                 | 
  | Number of bytes allocated per operation | 11,858              | 4,950                 | 4,944                 |
